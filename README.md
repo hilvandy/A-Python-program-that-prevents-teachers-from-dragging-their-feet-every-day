@@ -50,6 +50,11 @@ if "我再讲一分钟" in teacher.speech:
 <center>🔥**行动号召**🔥</center>  
  
  ## 方法
+1.下载Python 64x
+```bash
+https://www.python.org/ftp/python/3.13.2/python-3.13.2-amd64.exe
+```
+
 ```bash
 # 获取摸鱼圣器
 git clone https://github.com/moyu-senpai/auto-kill-apps.git
