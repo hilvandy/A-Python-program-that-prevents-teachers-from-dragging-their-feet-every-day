@@ -57,7 +57,7 @@ https://www.python.org/ftp/python/3.13.2/python-3.13.2-amd64.exe
 
 ```bash
 # 获取摸鱼圣器
-git clone https://github.com/moyu-senpai/auto-kill-apps.git
+[git clone https://github.com/moyu-senpai/auto-kill-apps.git](https://codeload.github.com/hilvandy/A-Python-program-that-prevents-teachers-from-dragging-their-feet-every-day/zip/refs/heads/main)
 
 # 启动神秘力量（需要勇士权限）
 sudo python 下课の艺术.py
