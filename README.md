@@ -57,9 +57,9 @@ https://www.python.org/ftp/python/3.13.2/python-3.13.2-amd64.exe
 
 ```bash
 # 获取摸鱼圣器
-在项目的 code然后有一个下载zip的格式，下载下来要解压它，找到一个名为Python的后缀运行，记住要以管理
+在项目的 code然后有一个下载zip的格式，下载下来要解压它，找到一个名为Python的后缀运行，记住要以管理员的身份去运行
 ```
-
+下面这一行代码需要一位勇士去运行（不会 cmd 的可以直接运行Python脚本），如果说要改学校的日期的话，那就把文件长按，然后选择以记事本的方式打开，里面写了注释，按照注释去改
 ```
 sudo python APython program thatprevents teachersfrom dragging heir feet everyday.py
 ```
