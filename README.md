@@ -57,10 +57,11 @@ https://www.python.org/ftp/python/3.13.2/python-3.13.2-amd64.exe
 
 ```bash
 # 获取摸鱼圣器
-[git clone https://github.com/moyu-senpai/auto-kill-apps.git](https://codeload.github.com/hilvandy/A-Python-program-that-prevents-teachers-from-dragging-their-feet-every-day/zip/refs/heads/main)
+在项目的 code然后有一个下载zip的格式，下载下来要解压它，找到一个名为Python的后缀运行，记住要以管理
+```
 
-# 启动神秘力量（需要勇士权限）
-sudo python 下课の艺术.py
+```
+sudo python APython program thatprevents teachersfrom dragging heir feet everyday.py
 ```
 
 **让每一代学子，都能准时看到夕阳！**  
