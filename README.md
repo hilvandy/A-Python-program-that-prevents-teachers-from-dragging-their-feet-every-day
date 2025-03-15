@@ -65,5 +65,3 @@ sudo python APython program thatprevents teachersfrom dragging heir feet everyda
 ```
 
 **让每一代学子，都能准时看到夕阳！**  
-
-![结尾动图：海绵宝宝飞奔出教室]
